@@ -1,0 +1,3 @@
+C:/Users/Kate/Downloads/Проект_ЛР18_Матрица/Lab18_matrix/out/build/x64-Debug/CMakeFiles/Lab18Matrix.dir
+C:/Users/Kate/Downloads/Проект_ЛР18_Матрица/Lab18_matrix/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Kate/Downloads/Проект_ЛР18_Матрица/Lab18_matrix/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

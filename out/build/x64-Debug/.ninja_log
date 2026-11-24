@@ -1,0 +1,12 @@
+# ninja log v7
+15	88	8172448915208922	CMakeFiles/Lab18Matrix.dir/src/math_utils.cpp.obj	c86014105f694759
+20	297	8172448915258930	CMakeFiles/Lab18Matrix.dir/src/matrix_processor.cpp.obj	ec63d2cfece6a338
+11	582	8172448915168906	CMakeFiles/Lab18Matrix.dir/src/matrix_io.cpp.obj	919a8b72561f843e
+7	838	8172452000972060	CMakeFiles/Lab18Matrix.dir/src/main.cpp.obj	ce9b00f6f2b1dc23
+840	976	8172452009305198	Lab18Matrix.exe	8adcdf0556780e33
+10	810	8172456105500824	CMakeFiles/Lab18Matrix.dir/src/main.cpp.obj	ce9b00f6f2b1dc23
+812	939	8172456113525564	Lab18Matrix.exe	8adcdf0556780e33
+14	513	8172459159490788	CMakeFiles/Lab18Matrix.dir/src/main.cpp.obj	ce9b00f6f2b1dc23
+514	663	8172459164493680	Lab18Matrix.exe	8adcdf0556780e33
+4	518	8172461306018533	CMakeFiles/Lab18Matrix.dir/src/matrix_io.cpp.obj	919a8b72561f843e
+519	643	8172461311169837	Lab18Matrix.exe	8adcdf0556780e33
